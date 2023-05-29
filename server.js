@@ -13,7 +13,7 @@ app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 // Start the server! //
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`Your server is live, listening on port http://localhost:${PORT}`);
 });
