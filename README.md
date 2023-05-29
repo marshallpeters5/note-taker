@@ -28,9 +28,8 @@ uuid: Generates unique identifiers (UUIDs).
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit an issue or create a pull request.
 
-## License
+## License [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 This project is licensed under the MIT License.
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Contact
 If you have any questions or want to get in touch, please contact Marshall at [marshall.peters01@gmail.com].
