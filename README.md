@@ -1,4 +1,4 @@
-# Note Taker Application
+# Note Taker
 A simple note-taking application that allows users to create, view, update, and delete notes. This application is built using Express.js for the server, HTML and CSS for the front-end, and uses a JSON file as the database to store the notes.
 
 ## Features
